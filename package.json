@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dabockster/Divulgence/issues"
   },
-  "homepage": "https://github.com/dabockster/Divulgence#readme"
+  "homepage": "https://github.com/dabockster/Divulgence#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
