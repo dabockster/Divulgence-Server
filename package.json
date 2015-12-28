@@ -1,0 +1,19 @@
+{
+  "name": "divulgence",
+  "version": "1.0.0",
+  "description": "Share your secrets.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dabockster@github.com/dabockster/Divulgence.git"
+  },
+  "author": "Steven Bock",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dabockster/Divulgence/issues"
+  },
+  "homepage": "https://github.com/dabockster/Divulgence#readme"
+}
